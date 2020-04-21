@@ -1,0 +1,81 @@
+*{
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=135913),default;
+}
+
+body {
+    margin: 0;
+    font-family: Rajdhani,sans-serif;
+  }
+
+a {
+    text-decoration: none;
+  }
+
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.container h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 5px;
+    text-shadow: 2px 2px black;
+}
+
+.container h2 {
+    opacity: 0.7;
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px black;
+}
+.container h3 {
+    opacity: 0.9;
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-bottom: 45px;
+    text-shadow: 2px 2px black;
+}
+.main {
+    padding: 180px 0 100px 0;
+    background-image: url(https://scx2.b-cdn.net/gfx/news/hires/2018/darkenergy.jpg);
+    background-size: cover;
+    color: white;
+    text-align:center;
+    opacity: 0.85;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    /* Ubah nilai border-radius ke 4px */
+    border-radius:4px;
+}
+.btn:hover{
+    opacity:1;
+}
+.j13-a:hover {
+    color: rgb(0, 183, 255);
+}
+.j13-b:hover {
+    color: rgb(255, 123, 0);
+}
+.j13-c:hover {
+    color: rgb(102, 255, 0);
+}
+.j13-d:hover {
+    color: rgb(255, 0, 221);
+}
+.j13-e:hover {
+    color: rgb(255, 0, 55);
+}
+
+.go {
+    background-color: #0093FB;
+}
